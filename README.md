@@ -3,7 +3,7 @@
 ## Description
 This project is a Spring Boot application that provides endpoints for sending emails with and without attachments using the Spring Boot Mail dependency. Users can interact with the application via Postman by accessing specific URLs to send emails.
 
- # **Setup and api endpoint usage**
+**Setup and api endpoint usage**
 
 1. **Clone the repository:**
    git clone <repository_url>
