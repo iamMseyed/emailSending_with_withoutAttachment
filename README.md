@@ -13,7 +13,7 @@ This project is a Spring Boot application that provides endpoints for sending em
   spring.mail.host=smtp.example.com  
   spring.mail.port=587  
   spring.mail.username=your_email@example.com  
-  spring.mail.password=your_email_password  
+  spring.mail.password=your_email_password   (better to use app password, search for how to setup app password in xyz(gmail, yahoo, protonmail...))
   spring.mail.properties.mail.smtp.auth=true  
   spring.mail.properties.mail.smtp.starttls.enable=true  
 `````````````````````````
